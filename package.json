@@ -1,0 +1,17 @@
+{
+  "name": "freelo-demo-v1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "parcel serve"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.0",
+    "parcel": "^2.12.0"
+  },
+  "source": "src/index.html",
+  "dependencies": {
+    "@vaadin/router": "^1.7.5"
+  }
+}
